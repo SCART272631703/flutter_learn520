@@ -1,0 +1,1 @@
+ /Volumes/MAC_OSX_SD/0_flutter_project/learn520/.dart_tool/flutter_build/feb6057dd0511635efd2602a41977f43/native_assets.yaml: 

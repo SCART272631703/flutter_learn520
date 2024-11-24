@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3c4cb7b588cbb9803e9bedb28d6b4ad6421683bd87eb61526ded98b52fc7b3b3"
+build_start_time: [1718159973, 372850894]
+build_end_time: [1718159977, 155297040]
+inputs:
+  ? "/Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/file_selector_macos-0.9.4/macos/file_selector_macos/Sources/file_selector_macos/FileSelectorPlugin.swift"
+  : [1717292378, 589186906]
+  ? "/Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/file_selector_macos-0.9.4/macos/file_selector_macos/Sources/file_selector_macos/messages.g.swift"
+  : [1717292378, 601428747]

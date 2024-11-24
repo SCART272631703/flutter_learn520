@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Volumes/MAC_OSX_SD/0_flutter_project/learn520/build/macos/Build/Products/Debug/connectivity_plus/connectivity_plus.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Volumes/MAC_OSX_SD/0_flutter_project/learn520/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/unextended-module.modulemap",
+    }]
+  }]
+}

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6fc55367e285f69ac37bdfdf2dd2af3a8d68132e5620ef368d0ef8b296970a67"
+build_start_time: [1718159973, 372850894]
+build_end_time: [1718159977, 60329914]
+inputs:
+  ? "/Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.4.0/darwin/path_provider_foundation/Sources/path_provider_foundation/PathProviderPlugin.swift"
+  : [1717121257, 82677125]
+  ? "/Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.4.0/darwin/path_provider_foundation/Sources/path_provider_foundation/messages.g.swift"
+  : [1717121257, 96694469]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ddc271b74aa960f3a693b1200c54666f5e7cfea77d6fc5990ef169ce7de759e5"
+build_start_time: [1718159973, 372902870]
+build_end_time: [1718159976, 977002143]
+inputs:
+  ? "/Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.4.0/darwin/shared_preferences_foundation/Sources/shared_preferences_foundation/SharedPreferencesPlugin.swift"
+  : [1717121254, 858507156]
+  ? "/Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.4.0/darwin/shared_preferences_foundation/Sources/shared_preferences_foundation/messages.g.swift"
+  : [1717121254, 866270065]

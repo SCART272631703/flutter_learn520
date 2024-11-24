@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqflitePlugin.m \
+  /Volumes/MAC_OSX_SD/0_flutter_project/learn520/build/macos/Build/Intermediates.noindex/Pods.build/Debug/sqflite.build/module.modulemap \
+  /Volumes/MAC_OSX_SD/0_flutter_project/learn520/macos/Pods/Target\ Support\ Files/sqflite/sqflite-prefix.pch \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqflitePlugin.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteImport.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterViewController.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterAppLifecycleDelegate.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Users/yanghu/flutter_sdk/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.xcframework/macos-arm64_x86_64/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteDatabase.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteCursor.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteOperation.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteDarwinImport.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteDarwinDB.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteDarwinDatabase.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteDarwinResultSet.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteDarwinDatabaseAdditions.h \
+  /Users/yanghu/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/darwin/Classes/SqfliteDarwinDatabaseQueue.h

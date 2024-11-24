@@ -1,0 +1,8 @@
+{
+    "data":[
+        {"nickname":"Joyce","roomName":"num1","roomSrc":"best room one"},
+        {"nickname":"abc","roomName":"num2","roomSrc":"best room two"},
+        {"nickname":"ada","roomName":"num3","roomSrc":"best room three"},
+        {"nickname":"dgg","roomName":"num4","roomSrc":"best room four"}
+    ]
+}
